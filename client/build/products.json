@@ -1,0 +1,42 @@
+{
+  "f21adbba": {
+    "id": "f21adbba",
+    "title": "AMD Ryzen 5 5500 Processor (6 cores/12 threads, 65W DTP, AM4 socket, 19 MB cache, up to 4.2 GHz max boost, wraith stealth cooler)",
+    "image": "https://m.media-amazon.com/images/I/51So7GoGvxL.__AC_SY300_SX300_QL70_ML2_.jpg",
+    "price": "£66.15",
+    "url": "https://amzn.to/43ZSn2N",
+    "review": "Review generation failed."
+  },
+  "086e35d9": {
+    "id": "086e35d9",
+    "title": "ASUS Prime GeForce RTX 5070 12GB GDDR7 Graphics Card The SFF-Ready (PCIe 5.0, 12GB GDDR7, HDMI/DP 2.1, 2.5-slot, Axial-tech fans, Dual BIOS)",
+    "image": "https://m.media-amazon.com/images/I/81k7x6q1XFL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "price": "£524.90",
+    "url": "https://amzn.to/3HASCcT",
+    "review": "No review generated."
+  },
+  "fe7a1680": {
+    "title": "MSI MPG 274URF QD 27 Inch UHD Gaming Monitor - 3840 x 2160 Rapid IPS Panel, 160 Hz - 05ms (GtG, Min), 145percentage sRGB Colour Gamut, Frameless Design, VESA DisplayHDR 400",
+    "price": "£248.99",
+    "image": "https://m.media-amazon.com/images/I/81Z+TL9PAzL._AC_SY300_SX300_.jpg",
+    "url": "https://amzn.to/3Hu4xJF",
+    "review": "No review generated.",
+    "id": "fe7a1680"
+  },
+  "2f72c6ec": {
+    "title": "MSI MAG 274QRFW 27 Inch WQHD Gaming Monitor - 2560 x 1440 Rapid IPS Panel, 180 Hz - 1ms GtG, 123percentage sRGB Colour Gamut, Frameless Design, DisplayHDR 400 - DisplayPort 14a, HDMI 20b",
+    "price": "£158.98",
+    "image": "https://m.media-amazon.com/images/I/71pyZ31Cu1L.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "url": "https://amzn.to/400asML",
+    "review": "No review generated.",
+    "id": "2f72c6ec"
+  },
+  "cf69c6ae": {
+    "title": "CORSAIR VENGEANCE DDR5 RAM 64GB (2x32GB) 6400MHz CL32 Intel XMP iCUE Compatible Computer Memory - Black (CMK64GX5M2B6400C32)",
+    "price": "£146.99",
+    "image": "https://m.media-amazon.com/images/I/71AV5PQu1yL.__AC_SY300_SX300_QL70_ML2_.jpg",
+    "url": "https://amzn.to/3FGCzd3",
+    "review": "No review generated.",
+    "id": "cf69c6ae"
+  }
+}
